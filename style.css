@@ -1,0 +1,48 @@
+p{
+font-family: 'Commissioner', sans-serif;
+}
+
+/* Navbar Style */
+.nav-bg-color{
+    background-color: #e6fde3;
+}
+
+/* home page style */
+ .banner {
+    background-color: #f9fff8;
+    padding-top: 100px;
+    padding-bottom: 50px;
+
+} 
+.banner-content h6 {
+    font-family: 'Commissioner', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-weight: bold;
+    font-size: 26px;
+    color: #54aa43;
+}
+.banner-content h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 48px;
+    color: #000000;
+}
+.banner-content span {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 48px;
+    color: #ffffff;
+}
+.banner-content p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    color: #3b3b3b;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .banner-content h6 {
+    font-size: 16px;
+    }
+}
